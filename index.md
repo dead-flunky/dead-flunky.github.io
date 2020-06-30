@@ -7,3 +7,8 @@ Artemis Fowl II uses his intelligence to build his family fortune through crime.
 * cynical
 * ruthless
 * socially awkward
+
+
+> Confidence is ignorance. If you're feeling cocky, 
+> it's because there's something you don't know.
+― Eoin Colfer, Artemis Fowl 
