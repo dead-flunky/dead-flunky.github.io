@@ -12,3 +12,6 @@ Artemis Fowl II uses his intelligence to build his family fortune through crime.
 > Confidence is ignorance. If you're feeling cocky, 
 > it's because there's something you don't know.
 ― Eoin Colfer, Artemis Fowl 
+
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d1/ArtemisMediumCloseup.png"/>
+By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=19211702
